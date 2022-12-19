@@ -1,0 +1,1 @@
+# Face-Recognition-and-Query-based-Assistance-system-for-visually-impaired
