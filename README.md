@@ -1,3 +1,5 @@
 # Face-Recognition-and-Query-based-Assistance-system-for-visually-impaired
 
 This paper presents a query-based information retrieval system for assistance pf the visually impaired people. It can recognize the known faces along with their timestamp. It can process the query and reply to it based on its recordings. Visually impaired users need help of sighted person for recognizing people around them unless they speak and start the conversation themselves. This dependence limits the socialization of the visually challenged people. Such situations may lead to anxiety and cognitive load. Many systems have been designed as aid for such problems, but they lack the information storing and a query-based model to take decision based on the information. This solution uses local binary pattern-based histogram for recognition of known faces. The system provided an accuracy and average precision of 82.4% and 85% respectively. The vital information is stored and delivered in response to a visually impaired person’s query via audio.
+
+For more information visit: https://ieeexplore.ieee.org/document/9825299
